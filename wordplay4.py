@@ -1,6 +1,6 @@
 import scrabble
 
-#code for finding longest palindrom in the Dist
+#code for finding longest palindrom in the Dict
 longest=""
 
 #Method 1

@@ -1,6 +1,6 @@
 import scrabble
 import string
-#print all letter which does not apper twice in eng word.
+#print all letter which does not apper twice in eng word from dict.
 for letter in string.ascii_lowercase:
     exits=False
     for word in scrabble.wordlist:
